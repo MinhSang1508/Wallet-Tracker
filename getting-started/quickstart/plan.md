@@ -23,7 +23,7 @@ Tracking/Audit sources: Google shared documents, Github (https://github.com/Jimm
 
 **Timeline: 1st month**
 
-**Budget Est: 6016 ADA**
+**Budget Est: 6600 ADA**
 
 ### **II. Develop and Deploy the First 2 bot Functions**
 
@@ -91,4 +91,4 @@ Tracking/Audit sources: Google shared documents, Github (https://github.com/Jimm
 
 **Timeline**: month 4th
 
-**Budget Est**: **3580 ADA**
+**Budget Est**: **2850 ADA**
