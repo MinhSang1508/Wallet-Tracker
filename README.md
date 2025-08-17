@@ -6,22 +6,25 @@ coverY: 0
 
 # Introdution
 
-### 📬 Cardano Asset Monitor Bot
+### 📬 Cardano Asset Tracker
 
-#### Get alerts via **Telegram & Gmail** — privately, securely, and for free.
+#### &#x20;privately, securely, and for free.
 
 ***
 
 ### 🔧 What’s Included?
 
-* 📄 **Documentation + Tutorial Videos**\
-  Hướng dẫn chi tiết từng bước để bạn tạo Telegram bot cá nhân theo nhu cầu thực tế.
-* 🔗 **Free API Integration**\
-  Hướng dẫn sử dụng các API công khai (Koios, Blockfrost, Cardanoscan...) để kiểm tra số dư tài sản Cardano.
-* 💬 **Telegram & Gmail Alerts**\
-  Thiết lập cảnh báo tự động khi tài sản trên ví thay đổi — qua **Telegram bot** và/hoặc **email (Gmail API)**.
-* 💻 **Bot Source Code – Fully Documented**\
-  Mã nguồn Python or Javascript dễ hiểu, dễ tuỳ chỉnh, kèm chú thích chi tiết từng dòng.
+📄 **Documentation + Tutorial Videos**\
+Step-by-step guides to help you create a personalized Telegram bot tailored to real-world needs.
+
+🔗 **Free API Integration**\
+Instructions on how to use public APIs (Koios, Blockfrost, Cardanoscan, etc.) to check Cardano asset balances.
+
+💬 **Telegram & Gmail Alerts**\
+Set up automatic alerts when wallet assets change — delivered via Telegram bot and/or email (Gmail API).
+
+💻 **Bot Source Code – Fully Documented**\
+Clean and customizable Python or JavaScript source code with detailed line-by-line explanations.
 
 ### 🛡️ Why Use This?
 
@@ -30,7 +33,4 @@ coverY: 0
 * **Self-hosted, self-controlled** – you own your data and alerts.
 * Perfect for serious Cardano holders who want **high security** without relying on external platforms.
 
-
-
 <figure><img src=".gitbook/assets/banner.png" alt=""><figcaption></figcaption></figure>
-
