@@ -4,7 +4,7 @@
 
 Starting from real needs, we will create documentation to guide users in creating their own Tracker to monitor asset fluctuations in their wallets. The documentation includes:
 
-* **Documentation and Videos:** Guides on how to create and deploy a Telegram bot.
+* **Documentation and Videos:** Guides on how to create and deploy a Asset tracker (Telegram bot, google script, simple database).
 * **Using Free APIs:** Instructions on how to utilize free API sources.
 * **Bot Source Code Documentation:** Detailed documentation of the bot's source code.
 
