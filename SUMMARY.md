@@ -4,11 +4,11 @@
 
 ## Getting Started
 
-* [Proposal](getting-started/quickstart/README.md)
-  * [Problem](getting-started/quickstart/problem.md)
-  * [Solution](getting-started/quickstart/solution.md)
-  * [Plan](getting-started/quickstart/plan.md)
-  * [Budget](getting-started/quickstart/budget.md)
+* [Proposal](getting-started/proposal/README.md)
+  * [Problem](getting-started/proposal/problem.md)
+  * [Solution](getting-started/proposal/solution.md)
+  * [Plan](getting-started/proposal/plan.md)
+  * [Budget](getting-started/proposal/budget.md)
 * [Ecosystem impact](getting-started/publish-your-docs.md)
 
 ## STEP-BY-STEP
