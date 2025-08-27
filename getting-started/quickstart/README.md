@@ -4,7 +4,7 @@ icon: bullseye-arrow
 
 # Proposal
 
-#### \[SOLUTION] Please describe your proposed solution
+### PROBLEM
 
 **Context and problem.**
 
@@ -16,7 +16,7 @@ icon: bullseye-arrow
 * Many regular users want to create their own tracking tools to monitor their assets daily and as they wish without needing a PC or using a third-party app. However, creating, programming, or deploying a bot requires time for research and may involve costs for renting an online server…
 * Cardano has many API sources that provide free blockchain data. Most of these projects creating these APIs are funded by the Catalyst fund. However, their popularity is not yet high.
 
-**Solution**
+### **SOLUTION**
 
 Starting from real needs, we will create documentation to guide users in creating their own Tracker to monitor asset fluctuations in their wallets. The documentation includes:
 
@@ -49,7 +49,7 @@ _Note: Feel free to use my bot (Vietnamese version)_
 * **Telegram Bot:** Always free.
 * **Faster Result Retrieval:** Provides quicker access to results compared to using explorer websites or wallet apps.
 
-#### \[IMPACT] Please define the positive impact your project will have on the wider Cardano community
+### IMPACT
 
 **Impact and benefit**
 
@@ -75,7 +75,7 @@ _Note: Feel free to use my bot (Vietnamese version)_
 * **Goal 4: Number of public API sources used.**
 * Number of API sources: **2** (Blockfrost + Koios)
 
-#### \[CAPABILITY & FEASIBILITY] What is your capability to deliver your project with high levels of trust and accountability? How do you intend to validate if your approach is feasible?
+### CAPABILITY & FEASIBILITY
 
 **Jimmy Lee**
 
@@ -93,9 +93,9 @@ I have experience managing and completing 7 proposals since Fund7. I have also s
 
 ![](https://cardano.ideascale.com/a/community-id/163/attachments/embedded-files/embedded-idea-custom-field-image-e231bf/png)
 
-#### \[PROJECT MILESTONES] What are the key milestones you need to achieve in order to complete your project successfully?
+### PROJECT MILESTONES
 
-### I. **Research and Planning**
+#### I. **Research and Planning**
 
 **Tasks:**
 
@@ -120,7 +120,7 @@ Tracking/Audit sources: Google shared documents, Github (https://github.com/Jimm
 
 **Budget Est: 6600 ADA**
 
-### **II. Develop and Deploy the First 2 bot Functions**
+#### **II. Develop and Deploy the First 2 bot Functions**
 
 **Task:**
 
@@ -145,7 +145,7 @@ Tracking/Audit sources: Google shared documents, Github (https://github.com/Jimm
 
 **Budget Est**: **6385 ADA**
 
-### **III. Develop and Deploy the Remaining 2 Bot Functions**
+#### **III. Develop and Deploy the Remaining 2 Bot Functions**
 
 **Task:**
 
@@ -168,7 +168,7 @@ Tracking/Audit sources: Google shared documents, Github (https://github.com/Jimm
 
 **Budget Est**: **6385 ADA**
 
-### **IV. Close out**
+#### **IV. Close out**
 
 **Task**
 
@@ -188,7 +188,7 @@ Tracking/Audit sources: Google shared documents, Github (https://github.com/Jimm
 
 **Budget Est**: **2850 ADA**
 
-#### \[RESOURCES] Who is in the project team and what are their roles?
+#### Project team and roles
 
 **1.Jimmy Lee – Project leader**
 
@@ -201,7 +201,7 @@ Tracking/Audit sources: Google shared documents, Github (https://github.com/Jimm
 * Telegram: [https://t.me/Jimmy\_Lee01](https://t.me/Jimmy_Lee01)
 * **Linkedin :** [linkedin.com/in/le-linh-813125117](https://www.linkedin.com/in/le-linh-813125117)
 
-### Total Budget: 22,366 ADA
+### TOTAL BUDGET: 22,366 ADA
 
 #### Budget Breakdown
 
