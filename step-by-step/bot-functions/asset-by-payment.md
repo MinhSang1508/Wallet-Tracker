@@ -1,2 +1,0 @@
-# Asset by payment
-

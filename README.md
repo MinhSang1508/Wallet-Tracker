@@ -1,28 +1,27 @@
 ---
 icon: hand-wave
+cover: https://gitbookio.github.io/onboarding-template-images/header.png
+coverY: 0
 ---
 
 # Introdution
 
 ### 📬 Cardano Asset Tracker
 
-#### &#x20;privately, securely, and for free.
+#### Get alerts via **Telegram & Gmail** — privately, securely, and 0 cost.
 
 ***
 
 ### 🔧 What’s Included?
 
-📄 **Documentation + Tutorial Videos**\
-Step-by-step guides to help you create a personalized Telegram bot tailored to real-world needs.
-
-🔗 **Free API Integration**\
-Instructions on how to use public APIs (Koios, Blockfrost, Cardanoscan, etc.) to check Cardano asset balances.
-
-💬 **Telegram & Gmail Alerts**\
-Set up automatic alerts when wallet assets change — delivered via Telegram bot and/or email (Gmail API).
-
-💻 **Bot Source Code – Fully Documented**\
-Clean and customizable Python or JavaScript source code with detailed line-by-line explanations.
+* 📄 **Documentation + Tutorial Videos**\
+  A detailed, step-by-step guide to creating your own custom Asset tracker tool to meet your specific needs.
+* 🔗 **Free API Integration**\
+  Instructions on how to use public APIs (Koios, Blockfrost, Cardanoscan, etc.) to check Cardano asset balances.
+* 💬 **Telegram & Gmail Alerts**\
+  Set up automatic alerts when the assets in your wallet change — via Telegram bot and/or email. **(Gmail API)**.
+* 💻 **Bot Source Code – Fully Documented**\
+  The Python or Javascript source code is easy to understand and customize, with detailed comments on each line.
 
 ### 🛡️ Why Use This?
 

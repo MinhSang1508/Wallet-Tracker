@@ -4,7 +4,7 @@ icon: bullseye-arrow
 
 # Proposal
 
-### PROBLEM
+#### \[SOLUTION] Please describe your proposed solution
 
 **Context and problem.**
 
@@ -16,11 +16,11 @@ icon: bullseye-arrow
 * Many regular users want to create their own tracking tools to monitor their assets daily and as they wish without needing a PC or using a third-party app. However, creating, programming, or deploying a bot requires time for research and may involve costs for renting an online server…
 * Cardano has many API sources that provide free blockchain data. Most of these projects creating these APIs are funded by the Catalyst fund. However, their popularity is not yet high.
 
-### **SOLUTION**
+**Solution**
 
-Starting from real needs, we will create documentation to guide users in creating their own Tracker to monitor asset fluctuations in their wallets. The documentation includes:
+Starting from real needs, we will create documentation to guide users in creating their own Telegram bot to monitor asset fluctuations in their wallets. The documentation includes:
 
-* **Documentation and Videos:** Guides on how to create and deploy a Guides on how to create and deploy an Asset tracker (Telegram bot, google script, simple database).t.
+* **Documentation and Videos:** Guides on how to create and deploy a Telegram bot.
 * **Using Free APIs:** Instructions on how to utilize free API sources.
 * **Bot Source Code Documentation:** Detailed documentation of the bot's source code.
 
@@ -49,7 +49,7 @@ _Note: Feel free to use my bot (Vietnamese version)_
 * **Telegram Bot:** Always free.
 * **Faster Result Retrieval:** Provides quicker access to results compared to using explorer websites or wallet apps.
 
-### IMPACT
+#### \[IMPACT] Please define the positive impact your project will have on the wider Cardano community
 
 **Impact and benefit**
 
@@ -75,7 +75,7 @@ _Note: Feel free to use my bot (Vietnamese version)_
 * **Goal 4: Number of public API sources used.**
 * Number of API sources: **2** (Blockfrost + Koios)
 
-### CAPABILITY & FEASIBILITY
+#### \[CAPABILITY & FEASIBILITY] What is your capability to deliver your project with high levels of trust and accountability? How do you intend to validate if your approach is feasible?
 
 **Jimmy Lee**
 
@@ -93,9 +93,9 @@ I have experience managing and completing 7 proposals since Fund7. I have also s
 
 ![](https://cardano.ideascale.com/a/community-id/163/attachments/embedded-files/embedded-idea-custom-field-image-e231bf/png)
 
-### PROJECT MILESTONES
+#### \[PROJECT MILESTONES] What are the key milestones you need to achieve in order to complete your project successfully?
 
-#### I. **Research and Planning**
+### I. **Research and Planning**
 
 **Tasks:**
 
@@ -118,9 +118,9 @@ Tracking/Audit sources: Google shared documents, Github (https://github.com/Jimm
 
 **Timeline: 1st month**
 
-**Budget Est: 6600 ADA**
+**Budget Est: 6016 ADA**
 
-#### **II. Develop and Deploy the First 2 bot Functions**
+### **II. Develop and Deploy the First 2 bot Functions**
 
 **Task:**
 
@@ -145,7 +145,7 @@ Tracking/Audit sources: Google shared documents, Github (https://github.com/Jimm
 
 **Budget Est**: **6385 ADA**
 
-#### **III. Develop and Deploy the Remaining 2 Bot Functions**
+### **III. Develop and Deploy the Remaining 2 Bot Functions**
 
 **Task:**
 
@@ -168,7 +168,7 @@ Tracking/Audit sources: Google shared documents, Github (https://github.com/Jimm
 
 **Budget Est**: **6385 ADA**
 
-#### **IV. Close out**
+### **IV. Close out**
 
 **Task**
 
@@ -186,9 +186,9 @@ Tracking/Audit sources: Google shared documents, Github (https://github.com/Jimm
 
 **Timeline**: month 4th
 
-**Budget Est**: **2850 ADA**
+**Budget Est**: **3580 ADA**
 
-#### Project team and roles
+#### \[RESOURCES] Who is in the project team and what are their roles?
 
 **1.Jimmy Lee – Project leader**
 
@@ -201,11 +201,11 @@ Tracking/Audit sources: Google shared documents, Github (https://github.com/Jimm
 * Telegram: [https://t.me/Jimmy\_Lee01](https://t.me/Jimmy_Lee01)
 * **Linkedin :** [linkedin.com/in/le-linh-813125117](https://www.linkedin.com/in/le-linh-813125117)
 
-### TOTAL BUDGET: 22,366 ADA
+### Total Budget: 22,366 ADA
 
 #### Budget Breakdown
 
-**Milestone 1: 6,600 ADA**
+**Milestone 1: 6,600 ADA**&#x20;
 
 * Research product structure: **4,416 ADA** (80 hrs × 55.2 ADA/hr)
 * Documentation writing (bot functionality, technical, deployment): **1,536 ADA** (40 hrs × 38.4 ADA/hr)
@@ -213,27 +213,31 @@ Tracking/Audit sources: Google shared documents, Github (https://github.com/Jimm
 
 ***
 
-**Milestone 2: 6,385 ADA**
+**Milestone 2: 6,385 ADA**&#x20;
 
 * Develop & deploy bot source code (2 features): **5,413 ADA** (\~80 hrs × 68 ADA/hr)
 * Project management, user support, report: **972 ADA** (45 hrs × 21.6 ADA/hr)
 
 ***
 
-**Milestone 3: 6,385 ADA**
+**Milestone 3: 6,385 ADA**&#x20;
 
 * Develop & deploy bot source code (2 features): **5,413 ADA** (\~80 hrs × 68 ADA/hr)
 * Project management, user support, report: **972 ADA** (45 hrs × 21.6 ADA/hr)
 
 ***
 
-**Final Milestone: 2,850 ADA**
+**Final Milestone: 2,850 ADA**&#x20;
 
 * Instructional videos (scripting, recording, editing): **1,232 ADA** (\~308 ADA/clip)
 * Building technical docs: **970 ADA** ( 20hrs x 48.5 ADA/hr)
 * Project management, support, final report: **648 ADA** (30 hrs × 21.6 ADA/hr)
 
+&#x20;
+
 ### VALUE FOR MONEY
+
+
 
 * I and my team has experience in implementing and completing 6 proposals.
 * We already have a community with tens of thousands of members, a website with 500 accounts, so the marketing costs are reduced to a minimum.
