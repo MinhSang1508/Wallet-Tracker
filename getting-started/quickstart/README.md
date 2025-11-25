@@ -77,21 +77,11 @@ _Note: Feel free to use my bot (Vietnamese version)_
 
 #### \[CAPABILITY & FEASIBILITY] What is your capability to deliver your project with high levels of trust and accountability? How do you intend to validate if your approach is feasible?
 
-**Jimmy Lee**
+I have long-standing experience in building this similar tracker for my community and managing large Cardano community groups, which ensures transparency, accountability, and trusted communication with ADA holders.
+Feel free to exp my telegram bot: @vietpool_bot
+All documentation, source code, and deployment steps will be published publicly on GitHub and GitBook so that anyone can verify, reuse, or contribute.
+To validate feasibility, I rely on proven and stable free infrastructure such as Google Cloud (AppScript, Sheets) and widely used Cardano public APIs (Blockfrost, Koios). A working Vietnamese version of the tracker already exists as proof of concept, showing that the approach is technically sound and practically usable. User testing, community feedback, and iteration will further confirm the tracker’s usability and scalability.
 
-* Leader of Viet Cardano Community (VCC) pool
-* Creator of VCC bot https://t.me/vietpool\_bot
-* Alternate delegate of Cardano Constituation Convention 2024
-* Admin of largest Vietnamese Cardano facebook Community (helping over 47k followers) [https://www.facebook.com/groups/cardanoviet](https://www.facebook.com/groups/cardanoviet)
-* Instructor of 2 “how to evaluate a crypto’s project" courses.
-* An Entrepreneur with 3 year experience in the blockchain field.
-* Has a deep knowledge in blockchain technology and blockchain projects.
-* Telegram: [https://t.me/Jimmy\_Lee01](https://t.me/Jimmy_Lee01)
-* **Linkedin :** [linkedin.com/in/le-linh-813125117](https://www.linkedin.com/in/le-linh-813125117)
-
-I have experience managing and completing 7 proposals since Fund7. I have also successfully created a bot with similar functions to serve my Telegram community.
-
-![](https://cardano.ideascale.com/a/community-id/163/attachments/embedded-files/embedded-idea-custom-field-image-e231bf/png)
 
 #### \[PROJECT MILESTONES] What are the key milestones you need to achieve in order to complete your project successfully?
 
