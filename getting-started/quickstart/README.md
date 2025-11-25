@@ -180,16 +180,19 @@ Tracking/Audit sources: Google shared documents, Github (https://github.com/Jimm
 
 #### \[RESOURCES] Who is in the project team and what are their roles?
 
-**1.Jimmy Lee – Project leader**
+**Mr. Ilum Nguyen – Product Manager**
+* Constitutional Representative of Cardano in Vietnam, SSPO Award recipient (Cardano Foundation), and speaker at multiple Cardano events including Cardano Summit Ho Chi Minh.
+* Experienced in blockchain education, governance, and cross-chain project management, with a track record of delivering funded proposals from Fund7 to Fund9.
+* Telegram: @IlumNguyen
 
-* Leader of Viet Cardano Community (VCC) pool
-* Alternate delegate of Cardano Constituation Convention 2024
-* Admin of 2 Vietnamese Cardano facebook Community (helping over 40k followers) [https://www.facebook.com/groups/cardanoviet](https://www.facebook.com/groups/cardanoviet) and https://www.facebook.com/groups/ada.holder
-* Instructor of 2 “how to evaluate a crypto’s project" courses.
-* An Entrepreneur with 3 year experience in the blockchain field.
-* Has a deep knowledge in blockchain technology and blockchain projects.
-* Telegram: [https://t.me/Jimmy\_Lee01](https://t.me/Jimmy_Lee01)
-* **Linkedin :** [linkedin.com/in/le-linh-813125117](https://www.linkedin.com/in/le-linh-813125117)
+***
+
+**VCC pool team - Tracker, documents creator**
+* Admin team of largest Cardano VietNam facebook
+* Creator of VCC pool bot
+* 6 funded Catalyst proposal.
+* Telegram: https://t.me/ADA_VIET
+* Github : https://github.com/Vcoincheck
 
 ### Total Budget: 22,366 ADA
 
