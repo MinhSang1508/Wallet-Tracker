@@ -185,8 +185,6 @@ Tracking/Audit sources: Google shared documents, Github (https://github.com/Jimm
 * Experienced in blockchain education, governance, and cross-chain project management, with a track record of delivering funded proposals from Fund7 to Fund9.
 * Telegram: @IlumNguyen
 
-***
-
 **VCC pool team - Tracker, documents creator**
 * Admin team of largest Cardano VietNam facebook
 * Creator of VCC pool bot
