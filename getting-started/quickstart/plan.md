@@ -19,7 +19,7 @@
 * One document describing the article structure, the structure of one clip, the list of articles, and the plan for writing articles, making clips, and live streaming details by week.
 * Two basic introductory articles.
 
-Tracking/Audit sources: Google shared documents, Github (https://github.com/JimmyLee16/Cardanodocs)
+Tracking/Audit sources: Google shared documents, Github
 
 **Timeline: 1st month**
 
